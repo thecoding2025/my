@@ -1,6 +1,4 @@
 add issue0
-issue1
-issue2
 add issue 0
 
 issue3
