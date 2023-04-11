@@ -4,5 +4,9 @@ a3
 a4
 a5
 atest
+<<<<<<< HEAD
 main2 에서 충돌을 일으키기
 
+=======
+maintest
+>>>>>>> 91d61b960a387f3d3b929d9c4b08f38732763d35
